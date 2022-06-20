@@ -1,0 +1,2 @@
+- main.c outputs the execution times of Karatsuba, Schonhage-Strassen and Optimized multiplications over Z[X] (implemented in FLINT).
+- statistic.ipynb: shows graphs of comparaison.
